@@ -48,7 +48,7 @@ Além disso:
 
 - Caso não tenha Power Point, salve o projeto de Power BI  
 
-  [Dashboards no Power Point](Módulo 2/Desafio de Projeto/Apresentação do dashboard.pptx)
+ 
 
 
  
